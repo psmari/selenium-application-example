@@ -9,6 +9,7 @@ Artigo utilizado como base: https://blog.geekhunter.com.br/automatizando-testes-
 ## COMO EXECUTAR O PROJETO
 
 1. tenha instalado na máquina o **python**, **pip** e o **virtualenv**
+2. tenha o driver de um browser: Google Chrome ou Mozilla Firefox (é importante que ele esteja no PATH do seu SO)
 2. execute `virtualenv env` para inicial um ambiente virtual python
 3. execute `source env/bin/activate` para ativar o ambiente  
 4. execute `pip3 install -r requirements.txt` para atualizar as dependências
